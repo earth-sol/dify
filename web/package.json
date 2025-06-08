@@ -46,7 +46,7 @@
     "@monaco-editor/react": "^4.6.0",
     "@next/mdx": "15.2.3",
     "@octokit/core": "^6.1.2",
-    "@octokit/request-error": "^6.1.5",
+    "@octokit/request-error": "^6.1.7",
     "@remixicon/react": "^4.5.0",
     "@sentry/react": "^8.54.0",
     "@sentry/utils": "^8.54.0",
